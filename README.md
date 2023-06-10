@@ -16,7 +16,11 @@ http://127.0.0.1:8000/list
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex1/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex2/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex2/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex2/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex2/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex2/main/Screenshots/Output-05.png)
 
 
 ## 🔗 www.codehafeez.com
